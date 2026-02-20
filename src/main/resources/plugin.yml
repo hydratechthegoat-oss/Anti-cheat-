@@ -4,3 +4,8 @@ main: com.flowingwater.nexis.Main
 api-version: '1.20'
 author: You
 description: Highly advanced anti cheat
+commands:
+  nexis:
+    description: Main command for 0xNexis
+    usage: /nexis info <player>
+    permission: 0xnexis.admin
