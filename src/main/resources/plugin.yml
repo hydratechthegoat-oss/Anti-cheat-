@@ -1,0 +1,6 @@
+name: 0xNexis
+version: '1.0'
+main: com.flowingwater.nexis.Main
+api-version: '1.20'
+author: You
+description: Highly advanced anti cheat
